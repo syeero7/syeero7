@@ -21,8 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" height="32" alt="podman"/>
 <div/>
 
-<hr/>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syeero7&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syeero7&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

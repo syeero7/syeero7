@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emal Hasitha</h1>
 
-<p style="bold" align="center">A self-taught developer from Sri Lanka</p>
+<p align="center">A self-taught developer from Sri Lanka</p>
 
 ### Languages and Tools
 
@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="32" alt="neovim"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" height="32" alt="podman"/>
 <div/>
+
+<p></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syeero7&theme=tokyonight-duo)](https://git.io/streak-stats)
 

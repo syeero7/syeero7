@@ -25,6 +25,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syeero7&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syeero7&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=syeero7&layout=donut&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=syeero7&layout=donut&langs_count=5&theme=tokyonight)
 
 <img src="https://komarev.com/ghpvc/?username=syeero7&style=flat-square&color=blue" alt=""/>
